@@ -38,26 +38,12 @@
     <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
   <credit page="1">
-    <credit-type>composer</credit-type>
-    <credit-words default-x="1500.25" default-y="2096.68" justify="right" valign="bottom" font-size="11.3">Franz von Suppé
-</credit-words>
-    <credit-words>(1819-1895)</credit-words>
-    </credit>
-  <credit page="1">
-    <credit-type>lyricist</credit-type>
-    <credit-words default-x="74.9907" default-y="2096.68" justify="left" valign="bottom" font-size="11.3">Requiem</credit-words>
-    </credit>
-  <credit page="1">
-    <credit-type>title</credit-type>
-    <credit-words default-x="787.619" default-y="2151.68" justify="center" valign="top" font-size="16.4">2. Dies irae</credit-words>
-    </credit>
-  <credit page="1">
     <credit-type>title</credit-type>
     <credit-words default-x="787.619" default-y="2151.68" justify="center" valign="top" font-size="22">Requiem</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="787.619" default-y="2076.69" justify="center" valign="top" font-size="16">Dies Irae</credit-words>
+    <credit-words default-x="787.619" default-y="2076.69" justify="center" valign="top" font-size="16">2. Dies irae</credit-words>
     </credit>
   <credit page="1">
     <credit-type>rights</credit-type>
@@ -154,7 +140,7 @@
             <left-margin>45.45</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>125.00</top-system-distance>
+          <top-system-distance>170.00</top-system-distance>
           </system-layout>
         </print>
       <attributes>
